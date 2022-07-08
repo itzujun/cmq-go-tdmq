@@ -23,7 +23,7 @@ Only support these data flow actions:
 Example:
 
 ```shell
-go get -u github.com/yougg/cmq-go-tdmq@main
+go get -u github.com/itzujun/cmq-go-tdmq@master
 ```
 
 ```go
